@@ -52,7 +52,7 @@ Thư mục `/lib` chứa các  thư viện cho các chương trình thiết yế
 ### File permissions
 Trong Linux và các hệ điều hành UNIX khác, mọi tệp đều được liên kết với người dùng là chủ sở hữu.
 | Command | Kết quả |
-|--------------|-------|
+|---------|-------|
 | chown | Được sử dụng để thay đổi quyền sở hữu người dùng của tệp hoặc thư mục |
 | chgrp | Được sử dụng để thay đổi quyền sở hữu nhóm |
 | chmod | Được sử dụng để thay đổi các quyền trên file |
